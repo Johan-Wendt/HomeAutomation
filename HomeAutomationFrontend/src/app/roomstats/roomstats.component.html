@@ -1,0 +1,12 @@
+<h1 class="centered">Room Statistics</h1>
+<div class="roomstats-grid-container">
+  <div class="roomstats-header">Temperature</div>
+  <div class="roomstats-value">{{roomName ? displayTemperature : ''}}</div>
+  <div class="roomstats-unit" [@changeUnit]="flip"
+       (click)="toggleUnitChange()">{{temperatureUnit}}</div>
+</div>
+<div class="roomstats-grid-container">
+  <div class="roomstats-header">Humidity</div>
+  <div class="roomstats-value">{{roomName ? roomHumidity * 100 : ''}}</div>
+  <div class="roomstats-unit">%</div>
+</div>

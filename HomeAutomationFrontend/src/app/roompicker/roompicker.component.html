@@ -1,0 +1,17 @@
+<div>
+  <div>
+    <h1>Rooms</h1>
+    <ul *ngIf="homeId">
+      <li [class.picked]="pickedRoom == i"
+          *ngFor="let room of availableRooms let i = index"
+          (click)="pickedRoom = i; updateRoomValues(room.name)">
+        {{room.name}}
+      </li>
+    </ul>
+    <ul *ngIf="!homeId">
+      <li class="must-select">
+        Select a Home
+      </li>
+    </ul>
+  </div>
+</div>

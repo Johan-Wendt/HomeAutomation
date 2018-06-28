@@ -1,0 +1,10 @@
+C:\Users\johan.wendt\source\repos\HomeAutomationMockBackend\HomeAutomationMockBackend\bin\Release\netcoreapp2.0\win-x64\HomeAutomationMockBackend.deps.json
+C:\Users\johan.wendt\source\repos\HomeAutomationMockBackend\HomeAutomationMockBackend\bin\Release\netcoreapp2.0\win-x64\HomeAutomationMockBackend.runtimeconfig.json
+C:\Users\johan.wendt\source\repos\HomeAutomationMockBackend\HomeAutomationMockBackend\bin\Release\netcoreapp2.0\win-x64\HomeAutomationMockBackend.runtimeconfig.dev.json
+C:\Users\johan.wendt\source\repos\HomeAutomationMockBackend\HomeAutomationMockBackend\bin\Release\netcoreapp2.0\win-x64\HomeAutomationMockBackend.dll
+C:\Users\johan.wendt\source\repos\HomeAutomationMockBackend\HomeAutomationMockBackend\bin\Release\netcoreapp2.0\win-x64\HomeAutomationMockBackend.pdb
+C:\Users\johan.wendt\source\repos\HomeAutomationMockBackend\HomeAutomationMockBackend\obj\Release\netcoreapp2.0\win-x64\HomeAutomationMockBackend.csproj.CoreCompileInputs.cache
+C:\Users\johan.wendt\source\repos\HomeAutomationMockBackend\HomeAutomationMockBackend\obj\Release\netcoreapp2.0\win-x64\HomeAutomationMockBackend.AssemblyInfoInputs.cache
+C:\Users\johan.wendt\source\repos\HomeAutomationMockBackend\HomeAutomationMockBackend\obj\Release\netcoreapp2.0\win-x64\HomeAutomationMockBackend.AssemblyInfo.cs
+C:\Users\johan.wendt\source\repos\HomeAutomationMockBackend\HomeAutomationMockBackend\obj\Release\netcoreapp2.0\win-x64\HomeAutomationMockBackend.dll
+C:\Users\johan.wendt\source\repos\HomeAutomationMockBackend\HomeAutomationMockBackend\obj\Release\netcoreapp2.0\win-x64\HomeAutomationMockBackend.pdb
