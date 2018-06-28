@@ -1,0 +1,14 @@
+C:\Users\johan.wendt\source\repos\HomeAutomationMockBackend\HomeAutomationMockBackend\bin\Release\netcoreapp2.0\win-x86\hostpolicy.dll
+C:\Users\johan.wendt\source\repos\HomeAutomationMockBackend\HomeAutomationMockBackend\bin\Release\netcoreapp2.0\win-x86\hostfxr.dll
+C:\Users\johan.wendt\source\repos\HomeAutomationMockBackend\HomeAutomationMockBackend\bin\Release\netcoreapp2.0\win-x86\HomeAutomationMockBackend.exe
+C:\Users\johan.wendt\source\repos\HomeAutomationMockBackend\HomeAutomationMockBackend\bin\Release\netcoreapp2.0\win-x86\HomeAutomationMockBackend.deps.json
+C:\Users\johan.wendt\source\repos\HomeAutomationMockBackend\HomeAutomationMockBackend\bin\Release\netcoreapp2.0\win-x86\HomeAutomationMockBackend.runtimeconfig.json
+C:\Users\johan.wendt\source\repos\HomeAutomationMockBackend\HomeAutomationMockBackend\bin\Release\netcoreapp2.0\win-x86\HomeAutomationMockBackend.runtimeconfig.dev.json
+C:\Users\johan.wendt\source\repos\HomeAutomationMockBackend\HomeAutomationMockBackend\bin\Release\netcoreapp2.0\win-x86\HomeAutomationMockBackend.dll
+C:\Users\johan.wendt\source\repos\HomeAutomationMockBackend\HomeAutomationMockBackend\bin\Release\netcoreapp2.0\win-x86\HomeAutomationMockBackend.pdb
+C:\Users\johan.wendt\source\repos\HomeAutomationMockBackend\HomeAutomationMockBackend\obj\Release\netcoreapp2.0\win-x86\HomeAutomationMockBackend.csproj.CoreCompileInputs.cache
+C:\Users\johan.wendt\source\repos\HomeAutomationMockBackend\HomeAutomationMockBackend\obj\Release\netcoreapp2.0\win-x86\HomeAutomationMockBackend.AssemblyInfoInputs.cache
+C:\Users\johan.wendt\source\repos\HomeAutomationMockBackend\HomeAutomationMockBackend\obj\Release\netcoreapp2.0\win-x86\HomeAutomationMockBackend.AssemblyInfo.cs
+C:\Users\johan.wendt\source\repos\HomeAutomationMockBackend\HomeAutomationMockBackend\obj\Release\netcoreapp2.0\win-x86\HomeAutomationMockBackend.dll
+C:\Users\johan.wendt\source\repos\HomeAutomationMockBackend\HomeAutomationMockBackend\obj\Release\netcoreapp2.0\win-x86\HomeAutomationMockBackend.pdb
+C:\Users\johan.wendt\source\repos\HomeAutomationMockBackend\HomeAutomationMockBackend\obj\Release\netcoreapp2.0\win-x86\HomeAutomationMockBackend.csprojAssemblyReference.cache

@@ -1,0 +1,83 @@
+h1 {
+  color: #fff;
+  font-family: 'Helvetica Neue', sans-serif;
+  font-weight: bold;
+  text-align: left;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  background: #fff;
+  border-radius: 8px;
+  padding: 20px;
+  margin-bottom: 8px;
+  font-size: 1.5em;
+  text-decoration: none;
+  font-weight: bold;
+  color: #0074D9;
+  cursor: pointer;
+}
+
+.centered {
+  text-align: center;
+}
+
+.main-grid-container {
+  display: grid;
+  grid-template-columns: 25vw 25vw 35vw;
+  grid-gap: 3vw;
+  background-color: #0074D9;
+  padding-left: 3vw;
+  height: 97vh;
+}
+
+.main-grid-container > div {
+  background-color: rgba(255, 255, 255, 0.8);
+  text-align: center;
+  padding: 5vh 0;
+  font-size: 10vh;
+}
+
+.must-select {
+  color: #000;
+  cursor: default;
+}
+
+.picked {
+  background-color: rgba(255, 255, 255, 0.6);
+}
+
+.roomstats-grid-container {
+  grid-template-columns: none;
+  display: grid;
+  grid-template-areas: 'header header header' 'value value unit' 'value value unit';
+  grid-gap: 2vh;
+  background-color: #0074D9;
+  padding-bottom: 2vh;
+}
+
+.roomstats-grid-container > div {
+  background-color: rgba(255, 255, 255, 0.6);
+  text-align: center;
+  padding: 2vh 0;
+  cursor: default;
+}
+
+.roomstats-header {
+  grid-area: header;
+  font-size: 5vh;
+}
+
+.roomstats-value {
+  grid-area: value;
+  font-size: 15vh;
+}
+
+.roomstats-unit {
+  grid-area: unit;
+  font-size: 15vh;
+}

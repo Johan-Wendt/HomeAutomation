@@ -1,0 +1,11 @@
+C:\Users\johan.wendt\source\repos\HomeAutomationMockBackend\HomeAutomationMockBackend\bin\Debug\netcoreapp2.0\HomeAutomationMockBackend.deps.json
+C:\Users\johan.wendt\source\repos\HomeAutomationMockBackend\HomeAutomationMockBackend\bin\Debug\netcoreapp2.0\HomeAutomationMockBackend.runtimeconfig.json
+C:\Users\johan.wendt\source\repos\HomeAutomationMockBackend\HomeAutomationMockBackend\bin\Debug\netcoreapp2.0\HomeAutomationMockBackend.runtimeconfig.dev.json
+C:\Users\johan.wendt\source\repos\HomeAutomationMockBackend\HomeAutomationMockBackend\bin\Debug\netcoreapp2.0\HomeAutomationMockBackend.dll
+C:\Users\johan.wendt\source\repos\HomeAutomationMockBackend\HomeAutomationMockBackend\bin\Debug\netcoreapp2.0\HomeAutomationMockBackend.pdb
+C:\Users\johan.wendt\source\repos\HomeAutomationMockBackend\HomeAutomationMockBackend\obj\Debug\netcoreapp2.0\HomeAutomationMockBackend.csprojAssemblyReference.cache
+C:\Users\johan.wendt\source\repos\HomeAutomationMockBackend\HomeAutomationMockBackend\obj\Debug\netcoreapp2.0\HomeAutomationMockBackend.csproj.CoreCompileInputs.cache
+C:\Users\johan.wendt\source\repos\HomeAutomationMockBackend\HomeAutomationMockBackend\obj\Debug\netcoreapp2.0\HomeAutomationMockBackend.AssemblyInfoInputs.cache
+C:\Users\johan.wendt\source\repos\HomeAutomationMockBackend\HomeAutomationMockBackend\obj\Debug\netcoreapp2.0\HomeAutomationMockBackend.AssemblyInfo.cs
+C:\Users\johan.wendt\source\repos\HomeAutomationMockBackend\HomeAutomationMockBackend\obj\Debug\netcoreapp2.0\HomeAutomationMockBackend.dll
+C:\Users\johan.wendt\source\repos\HomeAutomationMockBackend\HomeAutomationMockBackend\obj\Debug\netcoreapp2.0\HomeAutomationMockBackend.pdb

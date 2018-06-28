@@ -1,0 +1,15 @@
+<div>
+  <h1>Homes</h1>
+  <ul>
+    <li [class.picked]="pickedHome == i"
+        *ngFor=" let home of availableHomes let i = index"
+        (click)="pickedHome = i; selectHome(home)">
+      {{home.name}}
+    </li>
+  </ul>
+  <ul *ngIf="!availableHomes">
+    <li class="must-select">
+      Service down
+    </li>
+  </ul>
+</div>
